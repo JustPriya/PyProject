@@ -1,0 +1,20 @@
+
+
+1. parse the data from xml
+2. transform the data to desred format
+3. save all data to csv
+
+
+I have used python library ElemnetTree. it has parse() method  and this method returm ElementTree object. that gets stored on tree
+
+iter() method return iterator object which is each xml element object it returns
+
+
+for loop
+inner loop gets executed
+then outerloop
+
+The extend() method adds all the elements of an iterable (list, tuple, string etc.) to the end of the list.
+
+ record_arr = record_arr[1:] exp:
+from the first element to last lement all data gets stored to list record_arr.

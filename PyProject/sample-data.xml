@@ -1,0 +1,34 @@
+<FILEINPUT>
+	<request>
+		<inputID>12345</inputID>
+		<effectiveDate>2023-01-01</effectiveDate>
+		<region>WV</region>
+		<controlType />
+		<docType>B</docType>
+	</request>
+ <general>
+ <record>
+ 	<icisid>1111111</icisid>
+ 	<effectiveFromDate>2022-01-01</effectiveFromDate>
+ 	<effectivToDate />
+ 	<customerNumber>1000005</customerNumber> 
+ 	<customerName> Touchs Laboratory, LTD</customerName>
+ 	<marketStatus>Active</marketStatus>
+ 	<accountType>Local</accountType>
+| 	<ownershipType>Corporations</ownershipType>
+ 	<rolledoutInd>Y</rolledoutInd>
+ </record>
+<record>
+ 	<icisid>1222222</icisid>
+ 	<effectiveFromDate>2022-01-01</effectiveFromDate>
+ 	<effectivToDate />
+ 	<customerNumber>1000505</customerNumber> 
+ 	<customerName>  Laboratory, LTD</customerName>
+ 	<marketStatus>Active</marketStatus>
+ 	<accountType>Local</accountType>
+| 	<ownershipType>Corporations</ownershipType>
+ 	<rolledoutInd>Y</rolledoutInd>
+ </record>
+ </general>
+</FILEINPUT>
+

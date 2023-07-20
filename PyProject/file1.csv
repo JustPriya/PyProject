@@ -1,0 +1,6 @@
+Table_Index,Table_Name,Table_Value_Index,Value_index,XML_Name,XML_Value
+1,request,0,1,inputID,12345
+1,request,0,2,effectiveDate,2023-01-01
+1,request,0,3,region,WV
+1,request,0,4,controlType,nan
+1,request,0,5,docType,B
